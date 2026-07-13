@@ -1,0 +1,123 @@
+- table [ref=e2]:
+  - rowgroup [ref=e3]:
+    - row [ref=e4]:
+      - cell [ref=e5]:
+        - table [ref=e6]:
+          - rowgroup [ref=e7]:
+            - row [ref=e8]:
+              - cell [ref=e9]
+              - cell [ref=e10]
+              - cell [ref=e11]
+    - row "Sprint Logistics Sahal Musthafa V Pricing & Sales Coordinator Sprint Logistic Services LLC" [ref=e12]:
+      - cell "Sprint Logistics Sahal Musthafa V Pricing & Sales Coordinator Sprint Logistic Services LLC" [ref=e13]:
+        - table [ref=e14]:
+          - rowgroup [ref=e15]:
+            - row "Sprint Logistics Sahal Musthafa V Pricing & Sales Coordinator Sprint Logistic Services LLC" [ref=e16]:
+              - cell "Sprint Logistics" [ref=e17]:
+                - img "Sprint Logistics" [ref=e18]
+              - cell "Sahal Musthafa V Pricing & Sales Coordinator Sprint Logistic Services LLC" [ref=e19]:
+                - table [ref=e20]:
+                  - rowgroup [ref=e21]:
+                    - row [ref=e22]:
+                      - cell [ref=e23]
+                      - cell [ref=e24]
+                      - cell [ref=e25]
+                - paragraph [ref=e26]: Sahal Musthafa V
+                - paragraph [ref=e27]: Pricing & Sales Coordinator
+                - paragraph [ref=e28]: Sprint Logistic Services LLC
+              - cell [ref=e29]
+    - row "P O Box 90631, Suite-308,310,312 Belhoul Group Building, Entrance 4, 3rd Floor, Near Dubai Cargo Village, Al Garhoud, Dubai, United Arab Emirates +971-4-2399448 · Fax +971-4-2399447 +971 54 513 0911 sahal@sprintlogi.com www.sprintlogisticservices.com" [ref=e30]:
+      - cell "P O Box 90631, Suite-308,310,312 Belhoul Group Building, Entrance 4, 3rd Floor, Near Dubai Cargo Village, Al Garhoud, Dubai, United Arab Emirates +971-4-2399448 · Fax +971-4-2399447 +971 54 513 0911 sahal@sprintlogi.com www.sprintlogisticservices.com" [ref=e31]:
+        - table [ref=e32]:
+          - rowgroup [ref=e33]:
+            - row "P O Box 90631, Suite-308,310,312 Belhoul Group Building, Entrance 4, 3rd Floor, Near Dubai Cargo Village, Al Garhoud, Dubai, United Arab Emirates +971-4-2399448 · Fax +971-4-2399447 +971 54 513 0911 sahal@sprintlogi.com www.sprintlogisticservices.com" [ref=e34]:
+              - cell "P O Box 90631, Suite-308,310,312 Belhoul Group Building, Entrance 4, 3rd Floor, Near Dubai Cargo Village, Al Garhoud, Dubai, United Arab Emirates" [ref=e35]:
+                - table [ref=e36]:
+                  - rowgroup [ref=e37]:
+                    - row "P O Box 90631, Suite-308,310,312 Belhoul Group Building, Entrance 4, 3rd Floor, Near Dubai Cargo Village, Al Garhoud, Dubai, United Arab Emirates" [ref=e38]:
+                      - cell [ref=e39]
+                      - cell "P O Box 90631, Suite-308,310,312 Belhoul Group Building, Entrance 4, 3rd Floor, Near Dubai Cargo Village, Al Garhoud, Dubai, United Arab Emirates" [ref=e40]:
+                        - paragraph [ref=e41]:
+                          - text: P O Box 90631, Suite-308,310,312
+                          - text: Belhoul Group Building, Entrance 4,
+                          - text: 3rd Floor, Near Dubai Cargo Village,
+                          - text: Al Garhoud, Dubai, United Arab Emirates
+              - cell [ref=e42]
+              - cell "+971-4-2399448 · Fax +971-4-2399447 +971 54 513 0911 sahal@sprintlogi.com www.sprintlogisticservices.com" [ref=e43]:
+                - table [ref=e44]:
+                  - rowgroup [ref=e45]:
+                    - row "+971-4-2399448 · Fax +971-4-2399447" [ref=e46]:
+                      - cell "+971-4-2399448 · Fax +971-4-2399447" [ref=e47]:
+                        - table [ref=e48]:
+                          - rowgroup [ref=e49]:
+                            - row "+971-4-2399448 · Fax +971-4-2399447" [ref=e50]:
+                              - cell "+971-4-2399448 · Fax +971-4-2399447" [ref=e51]:
+                                - table [ref=e52]:
+                                  - rowgroup [ref=e53]:
+                                    - row "+971-4-2399448 · Fax +971-4-2399447" [ref=e54]:
+                                      - cell [ref=e55]
+                                      - cell "+971-4-2399448 · Fax +971-4-2399447" [ref=e56]:
+                                        - generic [ref=e57]:
+                                          - link "+971-4-2399448" [ref=e58] [cursor=pointer]:
+                                            - /url: tel:+97142399448
+                                          - text: · Fax +971-4-2399447
+                    - row "+971 54 513 0911" [ref=e59]:
+                      - cell "+971 54 513 0911" [ref=e60]:
+                        - table [ref=e61]:
+                          - rowgroup [ref=e62]:
+                            - row "+971 54 513 0911" [ref=e63]:
+                              - cell "+971 54 513 0911" [ref=e64]:
+                                - table [ref=e65]:
+                                  - rowgroup [ref=e66]:
+                                    - row "+971 54 513 0911" [ref=e67]:
+                                      - cell [ref=e68]
+                                      - cell "+971 54 513 0911" [ref=e69]:
+                                        - link "+971 54 513 0911" [ref=e70] [cursor=pointer]:
+                                          - /url: tel:+971545130911
+                    - row "sahal@sprintlogi.com" [ref=e71]:
+                      - cell "sahal@sprintlogi.com" [ref=e72]:
+                        - table [ref=e73]:
+                          - rowgroup [ref=e74]:
+                            - row "sahal@sprintlogi.com" [ref=e75]:
+                              - cell "sahal@sprintlogi.com" [ref=e76]:
+                                - table [ref=e77]:
+                                  - rowgroup [ref=e78]:
+                                    - row "sahal@sprintlogi.com" [ref=e79]:
+                                      - cell [ref=e80]
+                                      - cell "sahal@sprintlogi.com" [ref=e81]:
+                                        - link "sahal@sprintlogi.com" [ref=e82] [cursor=pointer]:
+                                          - /url: mailto:sahal@sprintlogi.com
+                    - row "www.sprintlogisticservices.com" [ref=e83]:
+                      - cell "www.sprintlogisticservices.com" [ref=e84]:
+                        - table [ref=e85]:
+                          - rowgroup [ref=e86]:
+                            - row "www.sprintlogisticservices.com" [ref=e87]:
+                              - cell "www.sprintlogisticservices.com" [ref=e88]:
+                                - table [ref=e89]:
+                                  - rowgroup [ref=e90]:
+                                    - row "www.sprintlogisticservices.com" [ref=e91]:
+                                      - cell [ref=e92]
+                                      - cell "www.sprintlogisticservices.com" [ref=e93]:
+                                        - link "www.sprintlogisticservices.com" [ref=e94] [cursor=pointer]:
+                                          - /url: https://www.sprintlogisticservices.com
+    - row "FIATA WCA world ICV ISO GLA NAFL JCtrans Mundu Logistics & Network" [ref=e95]:
+      - cell "FIATA WCA world ICV ISO GLA NAFL JCtrans Mundu Logistics & Network" [ref=e96]:
+        - img "FIATA" [ref=e97]
+        - img "WCA world" [ref=e98]
+        - img "ICV" [ref=e99]
+        - img "ISO" [ref=e100]
+        - img "GLA" [ref=e101]
+        - img "NAFL" [ref=e102]
+        - img "JCtrans" [ref=e103]
+        - img "Mundu Logistics & Network" [ref=e104]
+    - row "Sprint Logistic Services LLC is a member of the National Association of Freight & Logistics, Dubai (NAFL) and all business is carried out subject to NAFL standard Trading Conditions." [ref=e105]:
+      - cell "Sprint Logistic Services LLC is a member of the National Association of Freight & Logistics, Dubai (NAFL) and all business is carried out subject to NAFL standard Trading Conditions." [ref=e106]:
+        - paragraph [ref=e107]: Sprint Logistic Services LLC is a member of the National Association of Freight & Logistics, Dubai (NAFL) and all business is carried out subject to NAFL standard Trading Conditions.
+    - row [ref=e108]:
+      - cell [ref=e109]:
+        - table [ref=e110]:
+          - rowgroup [ref=e111]:
+            - row [ref=e112]:
+              - cell [ref=e113]
+              - cell [ref=e114]
+              - cell [ref=e115]
